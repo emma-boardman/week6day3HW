@@ -1,0 +1,1 @@
+Enjoyed the HeadFirst Design Principles book. Seeing the logic of the planning behind everything helps make sense of how I should be structuring programs.
